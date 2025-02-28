@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Google Sheets Clone Documentation
 
 Code : Its in Master Branch
@@ -98,3 +99,6 @@ This project is open-source and free to use. Contributions are welcome!
 ## Contact
 
 
+=======
+ 
+>>>>>>> 56a2ba2 (Initial commit)
